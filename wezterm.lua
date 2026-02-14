@@ -18,4 +18,6 @@ config.keys = {
 	},
 }
 
+config.animation_fps = 30
+
 return config
